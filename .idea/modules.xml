@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Ditu.iml" filepath="$PROJECT_DIR$/Ditu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/paixu/paixu.iml" filepath="$PROJECT_DIR$/paixu/paixu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qqbiaoqing/qqbiaoqing.iml" filepath="$PROJECT_DIR$/qqbiaoqing/qqbiaoqing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/token/token.iml" filepath="$PROJECT_DIR$/token/token.iml" />
+    </modules>
+  </component>
+</project>
